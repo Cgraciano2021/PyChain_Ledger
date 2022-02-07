@@ -1,0 +1,12 @@
+For this project i used VS code for the coding and launched Streamlit thru the intagrated termninal.
+The application was created using streamlit and it can be run using Terminal (Git Bash was used for this project). 
+
+ **Terminal PyChain Application Information:**
+
+*Terminal information* 
+![image](images/Terminal_Screenshot.png)
+<p></p><br>
+
+
+<p> The chain was initialized and the local and network URLs are displayed for the user to view the Ledger. Also, the wining hash information is available for traceability. No error messages were found.</p>
+
